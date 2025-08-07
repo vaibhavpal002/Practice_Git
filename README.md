@@ -1,3 +1,4 @@
 # Practice_Git
 Hey Practising Git and Github
-Author: Vaibhav Pal
+<br>
+Author: <b>Vaibhav Pal</b>
